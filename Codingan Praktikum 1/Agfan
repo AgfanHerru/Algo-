@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+@author: Agfan HerruPratama
+NAMA: AGFAN HERRU PRATAMA HENDARSIN
+
+"""
+
+nama = input("nama kamu siapa ? ")
+asal = input("asal kamu dari mana nih ? ")
+sekolah = input("kamu sebelumnya sekolah dari mana ? ")
+
+print ("halo bro ", nama)
+print ("asal kamu", asal)
+print ("asal sekolah kamu di", sekolah)
